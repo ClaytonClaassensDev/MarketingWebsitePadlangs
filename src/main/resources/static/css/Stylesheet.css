@@ -1,0 +1,19 @@
+.carousel {
+    height: 480px;
+    width: 100%;
+}
+
+.carousel-item img {
+    max-height: 480px;
+    width: 100%;
+}
+ .navbar {
+     height: 80px;
+     background-color: white;
+     opacity: 0.95;
+     position: fixed;
+     padding: 1rem 7rem;
+ }
+
+
+
